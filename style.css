@@ -341,7 +341,7 @@ span {
 .services {
     min-height: auto;
     padding-bottom: 10rem;
-    margin-top: -300px;
+    margin-top: -200px;
 }
 
 .services h2 {
@@ -1301,4 +1301,5 @@ span {
 }
 img {
     border-radius: 20px;
+
 }
